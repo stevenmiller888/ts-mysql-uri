@@ -1,7 +1,7 @@
 import { URL } from 'url'
 
 /** Represents MySQL connection parameters */
-interface MySQLConnectionConfig {
+export interface MySQLConnectionConfig {
   /** The default database for the connection */
   schema: string
   /** The user account to use for authentication */
