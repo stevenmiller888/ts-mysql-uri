@@ -1,6 +1,6 @@
 {
   "name": "ts-mysql-uri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse a MySQL connection URI.",
   "license": "MIT",
   "repository": "stevenmiller888/ts-mysql-uri",
