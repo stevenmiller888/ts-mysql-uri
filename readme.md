@@ -25,7 +25,7 @@ console.log(config) // { scheme: 'mysql', username: 'root', host: '127.0.0.1', p
 
 ## Related
 
-- [ts-mysql-parser](https://github.com/stevenmiller888/ts-mysql-parser) - A standalone, grammar-complete MySQL parser.
+- [ts-mysql-parser](https://github.com/stevenmiller888/ts-mysql-parser) - A standalone, grammar-complete MySQL parser
 - [ts-antlr4-scanner](https://github.com/stevenmiller888/ts-antlr4-scanner) - A scanner for antlr4-based lexers
 
 ## License
